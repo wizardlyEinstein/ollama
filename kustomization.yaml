@@ -1,6 +1,6 @@
 images:
 - name: ollama/ollama 
-  newTag: 0.12.6 
+  newTag: 0.12.7 
 
 namespace: ollama 
 
