@@ -53,6 +53,6 @@ spec:
       volumes:
         - name: dotollama
           hostPath:
-           path: /hdd/k3s/ollama/dotollama
+           path: /ssd/k3s/ollama/dotollama
            type: Directory
 
